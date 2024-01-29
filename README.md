@@ -8,3 +8,5 @@
 [![YoungChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinYoungChan&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
  
 <br>
+
+[Notion] (https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a)
