@@ -9,4 +9,4 @@
  
 <br>
 
-[Notion] (https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a)
+[Notion](https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a)
