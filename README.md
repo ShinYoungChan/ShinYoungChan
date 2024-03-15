@@ -25,4 +25,4 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="[https://velog.io/@hyeinisfree](https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://velog.io/@hyeinisfree](https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a)https://honeysuckle-tarsal-33e.notion.site/Shin-Youngchan-8dbea6521ecb486b80a86e244db83c6a"/></a>&nbsp
